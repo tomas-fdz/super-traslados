@@ -1,0 +1,184 @@
+{
+  "Header": {
+    "title": "",
+    "paragraph": "Realizamos servicios de traslados larga distancia a toda la Argentina, lugares turísticos, aeropuertos, eventos, recitales, etc. También transportamos encomiendas y paquetes a todo el país, y servicio de traslados de mascotas."
+  },
+  "About": {
+    "paragraph": "En Super Traslados, nos especializamos en traslados de larga distancia, ofreciendo un servicio cómodo, seguro y puntual para personas, familias, empresas  y mascotas que necesitan recorrer kilómetros con confianza. Cada viaje es una experiencia única, por eso cuidamos cada detalle: desde la atención personalizada hasta la calidad de nuestros vehículos y la profesionalidad de nuestros conductores.",
+
+    "Why": [
+      "Servicio puerta a puerta",
+      "Conductores profesionales y con experiencia",
+      "Vehículos cómodos y seguros para viajes largos",
+      "Tarifas claras, sin costos ocultos"
+    ],
+    "Why2": [
+      "Atención personalizada",
+      "Traslados programados y puntuales",
+      "Aceptamos mascotas en todos los viajes",
+      "Traslado exclusivo de mascotas"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-car",
+      "name": "Traslados a todo el país",
+      "text": "Viajá con nosotros a cualquier punto del país con confort, puntualidad y un servicio de calidad en cada kilómetro."
+    },
+    {
+      "icon": "fa fa-paw",
+      "name": "Traslados de mascotas",
+      "text": "Ofrecemos traslados especiales para mascotas, incluso sin acompañante humano. Comodidad y cuidado garantizados."
+    },
+    {
+      "icon": "fa fa-home",
+      "name": "Servicio puerta a puerta",
+      "text": "Te buscamos y te dejamos donde lo necesites, sin necesidad de trasbordos ni complicaciones."
+    },
+    {
+      "icon": "fa fa-calendar",
+      "name": "Eventos, recitales y aeropuertos",
+      "text": "Ideal para traslados a aeropuertos, recitales, eventos deportivos o culturales. Puntualidad asegurada."
+    },
+    {
+      "icon": "fa fa-exchange",
+      "name": "Viajes ida y vuelta",
+      "text": "Coordinamos traslados con espera o regreso incluido. Tu tiempo es importante, lo optimizamos."
+    },
+    {
+      "icon": "fa fa-usd",
+      "name": "Precios accesibles",
+      "text": "Ofrecemos tarifas claras y competitivas, sin costos ocultos. Pedí tu presupuesto sin compromiso."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Excelente experiencia. Me llevaron desde Buenos Aires a Córdoba sin ningún problema. Puntuales y muy amables. ¡Súper recomendables!\"",
+      "name": "José G."
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Trasladaron a mi perro solo hasta Santa Teresita. Me enviaron fotos durante el viaje y llegó perfecto. Se nota que les importa lo que hacen.\"",
+      "name": "Lucas R."
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Pedí un traslado puerta a puerta para mi madre y fue impecable. El chofer fue muy respetuoso y atento en todo momento.\"",
+      "name": "Sebastián P."
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Fui con amigos a un recital en Rosario y contratamos el viaje ida y vuelta. Todo salió según lo planeado, sin demoras ni sorpresas.\"",
+      "name": "Mariana S."
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Muy buena relación precio-calidad. Me sorprendió lo accesible que era y lo bien que funcionó todo. Lo volvería a elegir.\"",
+      "name": "Damián T."
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Coordinamos un viaje al aeropuerto con mucha anticipación. Llegaron en horario y el auto estaba impecable. Muy confiables.\"",
+      "name": "Laura S."
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "phone": "+54 9 11 3107-7706",
+    "email": "supertraslados10@gmail.com",
+    "facebook": "https://www.facebook.com/Supertraslados19",
+    "instagram": "https://www.instagram.com/supertraslados10",
+    "whatsapp": "https://wa.me/5491131077706"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
