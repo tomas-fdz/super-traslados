@@ -1,65 +1,19 @@
-# Proyecto Web en ReactJS
+Copyright (c) 2025 Tomás Fernández
 
-Este es un proyecto de sitio web desarrollado utilizando ReactJS.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
----
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-## 📋 Contenido
-
-* [Descripción General](#descripción-general)
-* [Tecnologías Utilizadas](#tecnologías-utilizadas)
-* [Cómo Poner en Marcha](#cómo-poner-en-marcha)
-    * [Prerrequisitos](#prerrequisitos)
-    * [Instalación](#instalación)
-    * [Ejecutar en Modo Desarrollo](#ejecutar-en-modo-desarrollo)
-    * [Crear la Versión de Producción (Build)](#crear-la-versión-de-producción-build)
-* [Deploy (Publicar la Web)](#deploy-publicar-la-web)
-
----
-
-## 📄 Descripción General
-
-Sitio web front-end construido con ReactJS. Presenta diversas secciones informativas típicas de una página web de servicios. La estructura y contenido de las secciones pueden ser personalizados mediante archivos de datos y componentes de React.
-
----
-
-## 🛠️ Tecnologías Utilizadas
-
-* **Frontend:** ReactJS
-* **Lenguajes:** JavaScript, HTML, CSS
-* **Manejo de dependencias:** npm o yarn
-* **Layout:** Estilos CSS personalizados y posible uso de un framework de grilla.
-
----
-
-## 🚀 Cómo Poner en Marcha
-
-Sigue estos pasos para tener una copia local del proyecto funcionando en tu máquina.
-
-### Prerrequisitos
-
-Asegúrate de tener instalado Node.js y npm (o yarn) en tu sistema.
-
-* Node.js (incluye npm): [https://nodejs.org/](https://nodejs.org/)
-* yarn (Opcional): [https://yarnpkg.com/](https://yarnpkg.com/)
-* Git (Para trabajar con el repositorio): [https://git-scm.com/](https://git-scm.com/)
-
-### Instalación
-
-1.  Obtén el código del proyecto (por ejemplo, clonando desde un repositorio Git o descargando los archivos).
-2.  Navega a la carpeta raíz del proyecto en tu terminal.
-3.  Instala las dependencias:
-    ```bash
-    npm install
-    ```
-    o
-    ```bash
-    yarn install
-    ```
-
-### Ejecutar en Modo Desarrollo
-
-Para iniciar el servidor de desarrollo local:
-
-```bash
-npm start
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
